@@ -1,3 +1,4 @@
 /blog-backend/* http://139.224.206.212:8090/:splat	200
 /pic/* /pic/:splat	200
+/test/* http://[240e:389:5f1f:100:44d:5e71:c84e:843f]/:splat 200
 /*    /index.html   200
