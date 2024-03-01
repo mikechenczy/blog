@@ -1,3 +1,4 @@
 /blog-backend/* http://139.224.206.212:8090/:splat	200
+/yt/* https://youtube.com/:splat	200
 /pic/* /pic/:splat	200
 /*    /index.html   200
