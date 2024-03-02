@@ -4,11 +4,10 @@
   status = 200
   force = false
 [[redirects]]
-  from = "/yt/*"
-  to = "https://www.yotube.com/:splat"
+  from = "/proxy/*"
+  to = "http://ipv6.mjczy.top:10810/:splat"
   status = 200
   force = false
-  headers = {Host = "www.youtube.com", X-Forwarded-Host = "www.youtube.com"}
 [[redirects]]
   from = "/zachary/*"
   to = "https://www.zzacharyzz.fun/:splat"
