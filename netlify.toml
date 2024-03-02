@@ -4,11 +4,6 @@
   status = 200
   force = false
 [[redirects]]
-  from = "/proxy/*"
-  to = "http://ipv6.mjczy.top:10810/:splat"
-  status = 200
-  force = false
-[[redirects]]
   from = "/zachary/*"
   to = "https://www.zzacharyzz.fun/:splat"
   status = 200
