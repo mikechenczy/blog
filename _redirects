@@ -1,5 +1,4 @@
 /blog-backend/* http://139.224.206.212:8090/:splat	200
-/yt/* https://www.yotube.com/:splat	200
-/zachary/* https://www.zzacharyzz.fun/:splat	200
 /pic/* /pic/:splat	200
+/resources/*    http://ipv6.mjczy.top:81/:splat   200
 /*    /index.html   200
