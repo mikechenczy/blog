@@ -1,7 +1,7 @@
 {
   "rewrites": [
     { "source": "/blog-backend/:url*", "destination": "http://ipv6proxy.mjczy.top:2082/:url*" },
-	{ "source": "/resources/:url*", "destination": "http://ipv6proxy.mjczy.top:8080/:url*" },
+	{ "source": "/resources/:url*", "destination": "http://ipv6proxy.mjczy.top:2052/:url*" },
     { "source": "/:url*", "destination": "/index.html" }
   ]
 }
