@@ -1,3 +1,4 @@
 /blog-backend/* http://ipv6.mjczy.top:2082/:splat	200
 /resources/*    http://ipv6.mjczy.top:81/:splat   200
+/pic/*    https://picmjczy.netlify.app//:splat   200
 /*    /index.html   200
